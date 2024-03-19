@@ -1,0 +1,327 @@
+{
+    "workouts":[ 
+    {
+      "workoutID": 0,
+      "workoutName": "Daily Pelvic Health",
+      "workoutPlan" :[
+        {
+          "Day" : 1,
+          "WeekTitle": "Foundation to PFH",
+          "Exercises": [
+            {
+            "ExerciseId": 1,
+            "Video": "",
+            "Name": "Diaphragmatic Breathing",
+            "Description": "Begin with this to enhance core stability and pelvic floor awareness. Focus on deep, controlled breaths that expand the diaphragm, engaging the pelvic floor muscles gently on the exhale.",
+            "Sets": 2,
+            "Reps": 5,
+            "Hold": "5 seconds"
+            },
+            {
+            "ExerciseId": 2,
+            "Video": "",
+            "Name": "Supine Pelvic Tilts with PFM and Breathing",
+            "Description": "Lying on your back, gently tilt your pelvis forward and back. Incorporate pelvic floor muscle engagement with each tilt, coordinating with your breath.",
+            "Sets": 2,
+            "Reps": 10,
+            "Hold": "3 seconds per tilt"
+            },
+            {
+            "ExerciseId": 3,
+            "Video": "",
+            "Name": "TA Supine Long Leg IR/ER",
+            "Description": "While on your back with legs extended, rotate your legs inward and outward. This helps to engage the transverse abdominis (TA) and improves hip mobility.",
+            "Sets": 2,
+            "Reps": 10,
+            "Hold": "2 seconds per rotation"
+            },
+            {
+            "ExerciseId": 4,
+            "Video": "",
+            "Name": "Pelvic Floor Squeeze and Lift Up",
+            "Description": "Focus on squeezing and lifting the pelvic floor muscles as if stopping the flow of urine. Hold for a few seconds and release. This strengthens the PFM directly.",
+            "Sets": 3,
+            "Reps": 10,
+            "Hold": "5 seconds"
+            },
+            {
+            "ExerciseId": 5,
+            "Video": "",
+            "Name": "Happy Baby",
+            "Description": "This yoga pose stretches the inner groins and the back spine, promoting relaxation and flexibility. It also gently engages the pelvic floor as you maintain stability.",
+            "Sets": 1,
+            "Reps": "Hold for 30 seconds",
+            "Hold": "30 seconds"
+            },
+            {
+            "ExerciseId": 6,
+            "Video": "",
+            "Name": "Bridging with Hip Abduction",
+            "Description": "Perform a bridge, lifting your hips off the ground. At the top, move your knees apart and back together to add a hip abduction component, strengthening the glutes and engaging the pelvic floor.",
+            "Sets": 2,
+            "Reps": 10,
+            "Hold": "3 seconds at the top"
+            },
+            {
+            "ExerciseId": 7,
+            "Video": "",
+            "Name": "Cat Cow to Child's Pose with Breathing",
+            "Description": "Transition from Cat Cow for spinal flexibility into Child's Pose, focusing on deep breathing. This sequence encourages pelvic floor relaxation and engagement through different postures.",
+            "Sets": 2,
+            "Reps": 8,
+            "Hold": "Breathe in for 4 seconds, breathe out for 4 seconds"
+            },
+            {
+            "ExerciseId": 8,
+            "Video": "",
+            "Name": "All Fours Alternate Arm and Leg Lifts",
+            "Description": "This exercise enhances core and pelvic stability while working on balance and coordination, engaging the TA and PFM indirectly.",
+            "Sets": 2,
+            "Reps": "10 (per side)",
+            "Hold": "2 seconds per lift"
+            },
+            {
+            "ExerciseId": 9,
+            "Video": "",
+            "Name": "Seated TA Hip IR/ER with Ball",
+            "Description": "Sitting on a chair, place a ball between your knees. Rotate your thighs inward and outward, engaging the TA and hip muscles, improving hip joint mobility.",
+            "Sets": 2,
+            "Reps": 10,
+            "Hold": "2 seconds per rotation"
+            },
+            {
+            "ExerciseId": 10,
+            "Video": "",
+            "Name": "Standing Pelvic Tilts with PFM",
+            "Description": "Stand with your feet hip-width apart. Perform pelvic tilts, engaging the pelvic floor with each tilt. This exercise improves standing posture and pelvic stability.",
+            "Sets": 2,
+            "Reps": 10,
+            "Hold": "3 seconds per tilt"
+            },
+            {
+            "ExerciseId": 11,
+            "Video": "",
+            "Name": "Sidelying Hip Abduction",
+            "Description": "Lying on your side, lift your upper leg towards the ceiling then lower it down. This strengthens the outer thigh and hip muscles, supporting pelvic alignment and stability.",
+            "Sets": 2,
+            "Reps": "10 (per side)",
+            "Hold": "2 seconds at the top"
+            },
+            {
+            "ExerciseId": 12,
+            "Video": "",
+            "Name": "Pigeon Stretch",
+            "Description": "Finish with a deep stretch that targets the piriformis and hip flexors, promoting flexibility and relieving tension in the lower back and pelvic area.",
+            "Sets": 1,
+            "Reps": "Hold for 30 seconds",
+            "Hold": "30 seconds per side"
+            }
+          ]
+        }
+      ]
+
+    },
+    {
+        "workoutID" : 1,
+        "workoutName": "Sexual Health",
+        "workoutPlan":[
+          {
+            "Day": 1,
+            "WeekTitle": "Foundation and Awareness",
+            "Exercises": [
+              {
+                "ExerciseId": 13,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "Diaphragmatic Breathing",
+                "Description": "Lie on your back with knees bent and feet flat on the floor. Place one hand on your chest and the other on your belly. Breathe in deeply through your nose, allowing your belly to rise more than your chest. Exhale slowly through pursed lips. Focus on engaging your pelvic floor muscles gently as you exhale.",
+                "Sets": 2,
+                "Reps": 5,
+                "Hold": "5 seconds"
+              },
+              {
+                "ExerciseId": 14,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "Pelvic Floor Squeeze and Lift Up",
+                "Description": "Sit or lie down comfortably. Imagine that you are trying to stop the flow of urine and the passage of gas at the same time. Squeeze and lift up the muscles around your anus and urethra. Hold this contraction, then relax completely.",
+                "Sets": 3,
+                "Reps": 10,
+                "Hold": "5 seconds"
+              },
+              {
+                "ExerciseId": 15,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "Supine Pelvic Tilts with PFM and Breathing",
+                "Description": "Lie on your back with knees bent, feet flat on the floor. Inhale and allow your belly to expand. As you exhale, gently engage your pelvic floor muscles, tilt your pelvis backward to flatten your lower back against the floor. Return to the starting position with the next inhalation.",
+                "Sets": 2,
+                "Reps": 10,
+                "Hold": "No specific hold time; perform with breathing rhythm"
+              },
+              {
+                "ExerciseId": 16,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "Child's Pose PFM Quick Contractions",
+                "Description": "Start on your hands and knees, then sit back on your heels, extending your arms forward on the floor. In this relaxed position, perform quick and gentle contractions of your pelvic floor muscles as if you are trying to stop the flow of urine.",
+                "Sets": 2,
+                "Reps": 15,
+                "Hold": "Quick contractions; no hold"
+              },
+              {
+                "ExerciseId": 17,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "All Fours to Child's Pose Diaphragmatic Breathing",
+                "Description": "Start on your hands and knees. Ensure your hands are under your shoulders and knees under your hips. As you inhale, transition into child's pose by sitting back onto your heels and stretching your arms forward. Exhale, returning to all fours while focusing on diaphragmatic breathing and engaging your pelvic floor muscles gently.",
+                "Sets": 2,
+                "Reps": 8,
+                "Hold": "Breathe in for 4 seconds, breathe out for 4 seconds"
+              },
+              {
+                "ExerciseId": 18,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "Happy Baby",
+                "Description": "Lie on your back and grab the outside of your feet with your hands. Gently pull your knees toward your armpits. Keep your back on the floor. Use this position to relax and gently rock side to side, focusing on relaxing your pelvic floor muscles.",
+                "Sets": 1,
+                "Reps": "Hold for 30 seconds",
+                "Hold": "30 seconds"
+              }
+            ]
+          },
+          {
+            "Day": 2,
+            "WeekTitle": "Foundation and Awareness",
+            "Exercises": [
+              {
+                "ExerciseId": 19,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "TA Supine Marching",
+                "Description": "Lie on your back with your knees bent and feet flat on the floor. Engage your core and pelvic floor muscles as if you're pulling your belly button towards your spine. Lift one foot off the ground, bringing your knee above your hip, then slowly lower it back down. Alternate legs, mimicking a marching motion.",
+                "Sets": 2,
+                "Reps": 10,
+                "Hold": "2 seconds per leg lift"
+              },
+              {
+                "ExerciseId": 20,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "Supine Post Tilts with PFM",
+                "Description": "Lie on your back with knees bent, feet flat on the floor. Engage your pelvic floor muscles and core. Tilt your pelvis towards you, lifting your lower back off the floor slightly, then return to the starting position.",
+                "Sets": 2,
+                "Reps": 10,
+                "Hold": "3 seconds per tilt"
+              },
+              {
+                "ExerciseId": 21,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "Bridging with Hip Abduction",
+                "Description": "Lie on your back with your knees bent and feet flat on the ground. Lift your hips towards the ceiling into a bridge position. While at the top, gently move your knees outwards (abduct) and then back inwards before lowering your hips back to the starting position.",
+                "Sets": 2,
+                "Reps": 8,
+                "Hold": "Lift for 2 seconds, hold abduction for 2 seconds"
+              },
+              {
+                "ExerciseId": 22,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "All Fours Alt Hip Extension",
+                "Description": "Start on your hands and knees with your wrists under your shoulders and knees under your hips. Engage your pelvic floor and core muscles. Extend one leg back, keeping your hip and knee straight. Return to the starting position and repeat with the other leg.",
+                "Sets": 2,
+                "Reps": "10 per leg",
+                "Hold": "2 seconds per extension"
+              },
+              {
+                "ExerciseId": 23,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "Standing Pelvic Tilts with PFM",
+                "Description": "Stand with your feet hip-width apart. Engage your pelvic floor and core muscles. Gently tilt your pelvis forward, then back, creating a small rocking motion of your pelvis. Focus on the movement being driven by your lower abdominal and pelvic floor muscles.",
+                "Sets": 2,
+                "Reps": 10,
+                "Hold": "2 seconds per tilt"
+              },
+              {
+                "ExerciseId": 24,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "Sidelying Hip Circles",
+                "Description": "Lie on your side with your legs extended. Support your head with your lower arm. Lift the top leg slightly, keeping it straight, and draw circles in the air with your toes. Perform the circles in both clockwise and counterclockwise directions.",
+                "Sets": 2,
+                "Reps": "10 circles each direction",
+                "Hold": "No specific hold; continuous motion"
+              },
+              {
+                "ExerciseId": 25,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "Cat Cow to Child's Pose with Breathing",
+                "Description": "Start on your hands and knees. Inhale as you arch your back down and look up (cow pose), then exhale as you round your back and tuck your chin (cat pose). From the cat position, sit back on your heels into child's pose while exhaling. Return to the starting position and repeat.",
+                "Sets": 2,
+                "Reps": 8,
+                "Hold": "Breathe in for cow pose, breathe out for cat pose to child's pose transition"
+              }
+            ]
+          },
+          {
+            "Day": 3,
+            "Exercises": [
+              {
+                "ExerciseId": 26,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "TA Supine Long Leg IR/ER",
+                "Description": "Lie on your back with your legs extended up towards the ceiling. Engage your pelvic floor and core muscles. Slowly rotate your legs inward (IR) and outward (ER), keeping your legs straight and movement controlled.",
+                "Sets": 2,
+                "Reps": "10 rotations each direction",
+                "Hold": "2 seconds per rotation"
+              },
+              {
+                "ExerciseId": 27,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "All Fours Alternate Arm Leg Holds",
+                "Description": "Start on your hands and knees. Engage your pelvic floor and core muscles. Extend one arm forward and the opposite leg back, keeping both straight. Hold this position briefly before returning to the starting position and switching sides.",
+                "Sets": 2,
+                "Reps": "10 per side",
+                "Hold": "5 seconds per hold"
+              },
+              {
+                "ExerciseId": 28,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "Standing TA Mini Squat with PFM Hold",
+                "Description": "Stand with your feet shoulder-width apart. Engage your pelvic floor and core muscles. Perform a mini squat by bending your knees slightly. Hold the squat position while maintaining engagement of your pelvic floor muscles.",
+                "Sets": 2,
+                "Reps": 10,
+                "Hold": "5 seconds per squat"
+              },
+              {
+                "ExerciseId": 29,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "Seated TA Hip Long Leg IR/ER",
+                "Description": "Sit on a chair with your back straight and feet flat on the floor. Extend one leg at a time and rotate it inward and outward, focusing on the movement coming from your hip. Engage your pelvic floor and core muscles throughout the movement.",
+                "Sets": 2,
+                "Reps": "10 rotations each leg",
+                "Hold": "2 seconds per rotation"
+              },
+              {
+                "ExerciseId": 30,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "Lunge with PFM",
+                "Description": "Stand with one foot forward and one back, hips-width apart. Engage your pelvic floor and core muscles as you lower into a lunge, keeping your back straight and front knee above the ankle. Push back to starting position and switch legs.",
+                "Sets": 2,
+                "Reps": "10 per leg",
+                "Hold": "3 seconds per lunge"
+              },
+              {
+                "ExerciseId": 31,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "Heel Raises",
+                "Description": "Stand with your feet hip-width apart. Slowly lift your heels off the ground, rising onto your toes while engaging your pelvic floor and core muscles. Lower your heels back to the ground with control.",
+                "Sets": 2,
+                "Reps": 15,
+                "Hold": "2 seconds at the top of each raise"
+              },
+              {
+                "ExerciseId": 32,
+                "Video": "https://lakecitypt.com/wp-content/uploads/2022/12/Diaphragmatic-breath-and-pelvic-floor-contraction.mp4?_=1",
+                "Name": "Sidelying Clams",
+                "Description": "Lie on your side with hips and knees bent, legs stacked. Keeping your feet together, open your top knee as far as you can without shifting your hips. Engage your pelvic floor and core muscles during the movement. Close the knee to return to the starting position.",
+                "Sets": 2,
+                "Reps": "15 per side",
+                "Hold": "1 second at the top of each clam"
+              }
+            ]
+          }
+        ]
+    }
+]}
